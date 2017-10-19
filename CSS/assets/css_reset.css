@@ -1,0 +1,19 @@
+
+html, body, section, article, h1, h2, p, ul, ol, nav, header, aside {
+
+  margin: 0;
+  border: 0;
+  padding: 0;
+
+  font: inherit;
+  text: inherit;
+
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: 100%
+}
